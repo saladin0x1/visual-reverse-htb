@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+CzkVArE1EUG/U6lN2Te/FhPjEeEHyX2sHHcRiLp3Xbq5chVpdLJNQQJ0mZEIGYmGl2WIIy3EIaztPSmyfhT3Q==",
+  "success": true,
+  "projectFilePath": "/home/saladinx/Documents/visual-htb/reverse-shell/reverse-shell.csproj",
+  "expectedPackageFiles": [
+    "/home/saladinx/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
